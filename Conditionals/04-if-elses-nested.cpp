@@ -9,22 +9,23 @@ int main(int argc, char *argv[])
   {
     if (a < c)
       {
-        printf("\na = %d es el mas ´pequeño.", a);
+        printf("\na = %d es el mas Â´pequeÃ±o.", a);
       }
     else
       {
-        printf("\nc = %d es el mas ´pequeño.", c);
+        printf("\nc = %d es el mas Â´pequeÃ±o.", c);
       }
   }
+  
   else
   {
     if(b < c)
     {
-      printf("\nb = %d es el mas ´pequeño.", b);
+      printf("\nb = %d es el mas Â´pequeÃ±o.", b);
     }
     else
     {
-      printf("\nc = %d Es el mas pequeño.", c);
+      printf("\nc = %d Es el mas pequeÃ±o.", c);
     }
   }
   return 0;  
